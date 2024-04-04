@@ -2,7 +2,6 @@
 <img width="500" alt="프로젝트 개요 이미지" src="https://via.placeholder.com/500">
 
 [🔗 우분투 서버, 도커, MySQL 설치, 외부접속 SSH](https://github.com/sangwon0707/ON_PREMISE_WAS/blob/main/ON%20PREMISE%20WAS%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5(%E1%84%8B%E1%85%AE%E1%84%87%E1%85%AE%E1%86%AB%E1%84%90%E1%85%AE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5)%20737f2b6e39434cb8b5d3ae1010c190be.md)
-https://github.com/sangwon0707/ON_PREMISE_WAS/blob/main/ON%20PREMISE%20WAS%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5(%E1%84%8B%E1%85%AE%E1%84%87%E1%85%AE%E1%86%AB%E1%84%90%E1%85%AE%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5)%20737f2b6e39434cb8b5d3ae1010c190be.md
 
 &nbsp;
 ## 🚀 프로젝트 개요
